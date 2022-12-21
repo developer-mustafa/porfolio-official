@@ -1,0 +1,55 @@
+::-webkit-scrollbar {
+  width: 8px;
+  background: none;
+}
+::-webkit-scrollbar-thumb {
+  background: #0ea5e9;
+  border-radius: 12px;
+}
+/* body{
+    scroll-behavior: smooth;
+} */
+
+.dark-theme {
+  background-color: #222;
+  color: #f3f3f3;
+}
+/* .dark-theme .testimonial{
+    background-color: #222 !important;
+} */
+.light-theme .awssld__content {
+  background-color: #ffffff !important;
+}
+.dark-theme h2 {
+  color: rgb(243, 243, 243);
+}
+.dark-theme h3 {
+  color: #222;
+}
+.dark-theme .author-title {
+  color: #ffffff;
+}
+.dark-theme .reviewRank {
+  color: #ffffff;
+}
+.dark-theme .reviewPara {
+  color: #ffffff;
+}
+.dark-theme .review {
+  box-shadow: 1px 2px 16px 2px #c4c4c48c;
+}
+.dark-theme h5 {
+  color: #e9e6e6;
+}
+.dark-theme label {
+  color: #302f2f;
+}
+.dark-theme small {
+  color: #0d6efd;
+}
+.light-theme {
+    background-image: linear-gradient(102deg, rgba(254, 254, 254, 0.03) 0%, rgba(254, 254, 254, 0.03) 22%,rgba(9, 9, 9, 0.03) 22%, rgba(9, 9, 9, 0.03) 40%,rgba(109, 109, 109, 0.03) 40%, rgba(109, 109, 109, 0.03) 47%,rgba(121, 121, 121, 0.03) 47%, rgba(121, 121, 121, 0.03) 89%,rgba(8, 8, 8, 0.03) 89%, rgba(8, 8, 8, 0.03) 100%),linear-gradient(165deg, rgba(203, 203, 203, 0.03) 0%, rgba(203, 203, 203, 0.03) 42%,rgba(148, 148, 148, 0.03) 42%, rgba(148, 148, 148, 0.03) 43%,rgba(173, 173, 173, 0.03) 43%, rgba(173, 173, 173, 0.03) 56%,rgba(226, 226, 226, 0.03) 56%, rgba(226, 226, 226, 0.03) 66%,rgba(37, 37, 37, 0.03) 66%, rgba(37, 37, 37, 0.03) 100%),linear-gradient(240deg, rgba(99, 99, 99, 0.03) 0%, rgba(99, 99, 99, 0.03) 57%,rgba(92, 92, 92, 0.03) 57%, rgba(92, 92, 92, 0.03) 59%,rgba(94, 94, 94, 0.03) 59%, rgba(94, 94, 94, 0.03) 72%,rgba(23, 23, 23, 0.03) 72%, rgba(23, 23, 23, 0.03) 81%,rgba(234, 234, 234, 0.03) 81%, rgba(234, 234, 234, 0.03) 100%),linear-gradient(71deg, rgba(81, 81, 81, 0.03) 0%, rgba(81, 81, 81, 0.03) 30%,rgba(102, 102, 102, 0.03) 30%, rgba(102, 102, 102, 0.03) 74%,rgba(10, 10, 10, 0.03) 74%, rgba(10, 10, 10, 0.03) 84%,rgba(200, 200, 200, 0.03) 84%, rgba(200, 200, 200, 0.03) 88%,rgba(103, 103, 103, 0.03) 88%, rgba(103, 103, 103, 0.03) 100%),linear-gradient(90deg, rgb(195,204,250),rgb(255,197,197));
+}
+.light-theme .skill__title {
+  color: #fff;
+}
